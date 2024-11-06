@@ -20,11 +20,11 @@
 
 title: NISER Event Management
 email: code@niser.ac.in
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a simple event management system for NISER.
+description: This is a simple event management system for NISER.
 baseurl: "/event-management" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "methaphur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  methaphur
+website: https://methaphur.github.io
 
 # Build settings
 theme: minima
